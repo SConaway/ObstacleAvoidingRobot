@@ -1,9 +1,20 @@
-# RobotControl
+# ObstacleAvoidingRobot
 An Arduino-based Obstacle Avoiding Robot
 
+Versions
+===
+
+Bluetooth Robot - https://github.com/SConaway/RobotContro/
+
+Obstacle Avoiding Robot - https://github.com/SConaway/ObstacleAvoidingRobot/
+
+IR Robot - https://github.com/SConaway/IRRobot/
+
+Line Tracking Robot - https://github.com/SConaway/LTMRobot/
 
 Based on:
-*  Arduino UNO R3
+===
+*  Arduino U*  Arduino UNO R3
 *  L298N motor driver
 *  HC-SR04 Ultrasonic Module
 
