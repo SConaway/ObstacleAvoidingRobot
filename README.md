@@ -14,7 +14,7 @@ Line Tracking Robot - https://github.com/SConaway/LTMRobot/
 
 Based on:
 ===
-*  Arduino U*  Arduino UNO R3
+*  Arduino UNO R3
 *  L298N motor driver
 *  HC-SR04 Ultrasonic Module
 
@@ -24,7 +24,5 @@ I based it off of https://www.amazon.com/gp/product/B01M2Z9ZTV/ with my own cust
 
 Credits
 =======
---------------
-
 
 NewPing - Ultrasonic Library for Arduino https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
